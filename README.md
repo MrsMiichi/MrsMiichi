@@ -3,7 +3,7 @@
 </div>  
 
 
-<h1 align="center">Hi :wave:, Connect with me </h1>
+<h1 align="center">Zdravím,👋 uvítám tě všude kam se připojíš </h1>
 <div align="center">
 <a href="https://github.com/MrsMiichi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
